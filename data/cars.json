@@ -1,4 +1,4 @@
 [
-    {"id": 1, "make": "Toyota", "model": "Corolla", "year": 2020},
-    {"id": 2, "make": "Honda", "model": "Civic", "year": 2019}
+    {"id": 1, "make": "Toyota", "model": "Corolla", "year": 2020, "rented": false},
+    {"id": 2, "make": "Honda", "model": "Civic", "year": 2019, "rented": false}
 ]
