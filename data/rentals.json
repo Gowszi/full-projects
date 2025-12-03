@@ -1,0 +1,4 @@
+[
+    {"id": 1, "customer_id": 1, "car_id": 2},
+    {"id": 2, "customer_id": 2, "car_id": 1}
+]
